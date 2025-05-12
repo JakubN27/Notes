@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "c71d0a1de41f17f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "65d51cd94df411f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aba7c6be8c34fbe8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms and Data Structures/Graph theory/Types of Graph.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Types of Graph"
+            }
+          },
+          {
+            "id": "ffa0c5cd94aa751e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms and Data Structures/Graph theory/Definitions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Definitions"
+            }
+          },
+          {
+            "id": "4a50a088bf2ab5f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms and Data Structures/Graph theory/Theorems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Theorems"
+            }
+          },
+          {
+            "id": "8b7beee4f6bee8a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithms and Data Structures/Graph theory/Types of Graph.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Types of Graph"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7981ac29e72e358c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6ebe17905d331cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9adb9d0a03b1f819",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f3acafbf1de4b695",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a2d7944442ee5b98",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "55af4d2d27905e98",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e072affa3f3823a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "203c680b180564c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Algorithms and Data Structures/More Algorithms.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for More Algorithms"
+            }
+          },
+          {
+            "id": "336d1b85657bd999",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Algorithms and Data Structures/More Algorithms.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from More Algorithms"
+            }
+          },
+          {
+            "id": "5342cca780a2d4c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "08e1820089abb117",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Algorithms and Data Structures/More Algorithms.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of More Algorithms"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8b7beee4f6bee8a0",
+  "lastOpenFiles": [
+    "Algorithms and Data Structures/Graph theory/Theorems.md",
+    "Algorithms and Data Structures/Graph theory/Graph classes.md",
+    "Algorithms and Data Structures/Graph theory/Definitions.md",
+    "Algorithms and Data Structures/Graph theory/Conncetivity.md",
+    "Algorithms and Data Structures/Graph theory/Types of Graph.md",
+    "Single Mathematics A/Series/Taylor Series.md",
+    "MCS/Lagrange Multipliers.md",
+    "Linear Algebra/Special Types of Matrices.md",
+    "Linear Algebra/Matrix Diagonalisation.md",
+    "Single Mathematics A/Series/Tests for Convergence.md",
+    "Single Mathematics A/Series/Series.md",
+    "Single Mathematics A/Series/Definition of a Series.md",
+    "Single Mathematics A/Series/Common Series Types.md",
+    "MCS/Multivariate Extrema.md",
+    "Algorithms and Data Structures/Graph theory/Pasted image 20250508113316.png",
+    "Algorithms and Data Structures/More Algorithms.md",
+    "Linear Algebra/Linear Independence.md",
+    "Linear Algebra/Linear Algebra - Vector Spaces.md",
+    "Linear Algebra/Linear transformations.md",
+    "Untitled.md",
+    "Algorithms and Data Structures/Graph theory",
+    "MCS/Mathematical Structures.md",
+    "Algorithms and Data Structures/Stacks.md",
+    "Algorithms and Data Structures/Searching.md",
+    "Algorithms and Data Structures/Recursion and backtracking.md",
+    "Algorithms and Data Structures/Queues.md",
+    "Algorithms and Data Structures/Recurrence relations.md",
+    "Algorithms and Data Structures/Hash Tables.md",
+    "Single Mathematics A/Series",
+    "Linear Algebra",
+    "Pasted image 20250419171730.png",
+    "Untitled.canvas",
+    "Algorithms and Data Structures",
+    "Single Mathematics A"
+  ]
+}
