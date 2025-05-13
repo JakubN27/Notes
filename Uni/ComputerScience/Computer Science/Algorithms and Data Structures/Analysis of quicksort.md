@@ -1,3 +1,0 @@
-If the[[Sorting Algorithms#The partitioning function| partitioning function]] in a quick sort is "balanced" a.k.a it has a fairly equal chance of selecting each element then it will have a time complexity of Θ(n log n) like[[Sorting Algorithms#Merge Sort| merge sort]].
-Otherwise it is Θ(n<sup>2</sup>). 
-One idea of using randomisation in algorithms design is to “eliminate” bad input instances. Algorithms often simple, analyses often not so much.
