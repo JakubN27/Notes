@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "1ae8d0f29f13e6c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bef03d97ee699e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef79dfd90c8e8122",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Algorithms and Data Structures/Graph theory/Depth First Search.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Depth First Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c5dbf4962ee8d8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5144a1037172f98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2166c4d620ff77f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a3aabe1e96795d5f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3255c9cb00f53f44",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f500d495602a488f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1b17533eb47be16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c45dffb69e27b316",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer Science/Algorithms and Data Structures/Analysis of quicksort.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Analysis of quicksort"
+            }
+          },
+          {
+            "id": "e6382242611663f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer Science/Algorithms and Data Structures/Analysis of quicksort.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Analysis of quicksort"
+            }
+          },
+          {
+            "id": "88578768402b6e68",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "646e2cf3b2821f86",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer Science/Algorithms and Data Structures/Analysis of quicksort.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Analysis of quicksort"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ef79dfd90c8e8122",
+  "lastOpenFiles": [
+    "01 - Algorithms and Data Structures/Graph theory/Breadth First Search.md",
+    "01 - Algorithms and Data Structures/Algorithms/More Algorithms.md",
+    "01 - Algorithms and Data Structures/Data Structures/Balanced Trees.md",
+    "01 - Algorithms and Data Structures/Algorithms/Median of Medians.md",
+    "01 - Algorithms and Data Structures/Theory/Asymptotic notation.md",
+    "01 - Algorithms and Data Structures/Data Structures/Arrays and Lists.md",
+    "Algorithms and Data Structures/Stacks.md",
+    "01 - Algorithms and Data Structures/Data Structures/Hash Tables.md",
+    "Algorithms and Data Structures/Graph theory/Types of Graph.md",
+    "Algorithms and Data Structures/Graph theory/Graph classes.md",
+    "Algorithms and Data Structures/Graph theory/Theorems.md",
+    "Algorithms and Data Structures/Graph theory/Conncetivity.md",
+    "Algorithms and Data Structures/Graph theory/Definitions.md",
+    "Algorithms and Data Structures/Sorting Algorithms.md",
+    "Algorithms and Data Structures/Searching.md",
+    "Algorithms and Data Structures/Recurrence relations.md",
+    "Algorithms and Data Structures/Balanced Trees.md",
+    "Algorithms and Data Structures/Recursion and backtracking.md",
+    "Algorithms and Data Structures/Queues.md",
+    "Algorithms and Data Structures/Median of Medians.md",
+    "Algorithms and Data Structures/More Algorithms.md",
+    "Algorithms and Data Structures/Hash Tables.md",
+    "Algorithms and Data Structures/Binary Search Trees.md",
+    "Algorithms and Data Structures/Graph theory",
+    "Algorithms and Data Structures/AVL trees.md",
+    "Algorithms and Data Structures/Arrays and Lists.md",
+    "Algorithms and Data Structures/Analysis of quicksort.md",
+    "Algorithms and Data Structures",
+    "01 - Algorithms and Data Structures/Theory",
+    "01 - Algorithms and Data Structures/Data Structures",
+    "01 - Algorithms and Data Structures/Algorithms",
+    "05 - Single Mathematics A/Series",
+    "05 - Single Mathematics A",
+    "04 - MCS",
+    "03 - Linear Algebra",
+    "02 - Computer Systems"
+  ]
+}
