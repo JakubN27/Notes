@@ -1,0 +1,5 @@
+Let $\{A \mathbf{x} | \in \mathbb{R}^n \}$ be the column space of A. Since $proj_WB$ is the best approximation to b from W, least squares approximation to Ax = b (i.e vectors x minimising ||b-Ax|| (shortest distance)) are exactly solutions to $Ax= proj_WB$ .
+We can compute $proj_WB$ and solve the system, but there's a more useful way. The representation $b = w_1 + w_2 $where $w_1 \in W$ and $w_2 \in W^{\perp}$ is unique, so the equation Ax = $proj_WB$ is equivalent to the condition $b - Ax \in W^{\perp}$. The columns of A are the rows of $A^T$ so the condition is equivalent to $A^T(b - Ax \in W^{\perp}) = 0$, which we can rewrite as 
+$$A^TAx = A^Tb$$
+This is the normal equation associated with Ax = b.
+So, for every linear system Ax = b, the associated normal system is consistent, and its solutions are exactly the least square solutions of Ax = b. Moreover, if W is the column space of A and $x_0$ is any least square solution of Ax = b, then $Ax_0 = proj_Wb$.

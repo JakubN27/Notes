@@ -44,3 +44,5 @@ The columns (and rows) of an orthogonal matrix are orthonormal. This means they 
 
 # Similar Matrices 
 Two square matrices, A and B for instance, represent the same linear map under two possibly different bases. A and B are considered similar if there exists an invertible matrix P such that $B = P^-1 AP$. Similar matrices share the same eigenvalues, the same trace, same characteristic polynomial, and rank. 
+# Hermitian Matrix
+A hermitian matrix is a matrix is a square matrix which is equal to its conjugate transpose.
