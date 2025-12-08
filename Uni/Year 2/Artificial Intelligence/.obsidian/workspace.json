@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "c0a6ff23b889c5d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b72e855078ee92e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "644cd5eaaad86253",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
+          },
+          {
+            "id": "2a169369b0610166",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced rubric obeservations/Basic Visualisation Observations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Basic Visualisation Observations"
+            }
+          },
+          {
+            "id": "e979a345149c58f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced rubric obeservations/Paradigm Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Paradigm Overview"
+            }
+          },
+          {
+            "id": "7978a9ad1cfd9ea9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced rubric obeservations/Basic Visualisation Observations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Basic Visualisation Observations"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b50d6a8a67319ce1",
+    "type": "split",
+    "children": [
+      {
+        "id": "15a8318f52fe0a66",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8d9b001ca904900",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cfbc2b4b91887ae7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3efd17de88e5b305",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f5cff4774f540cca",
+    "type": "split",
+    "children": [
+      {
+        "id": "763379f30e066752",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0459f3ba0c06ba31",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Advanced rubric obeservations/Temporal EEG Analysis observations.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Temporal EEG Analysis observations"
+            }
+          },
+          {
+            "id": "8cc3ac4012beefc1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Advanced rubric obeservations/Temporal EEG Analysis observations.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Temporal EEG Analysis observations"
+            }
+          },
+          {
+            "id": "31ee39897fb3a99d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "09f8c65c8c28f2d7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "43cb608e46b94ba7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Advanced rubric obeservations/Temporal EEG Analysis observations.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Temporal EEG Analysis observations"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7978a9ad1cfd9ea9",
+  "lastOpenFiles": [
+    "Advanced rubric obeservations/Base Model.md",
+    "Advanced rubric obeservations/Advanced Model.md",
+    "Advanced rubric obeservations/Temporal EEG Analysis observations.md",
+    "Advanced rubric obeservations/Paradigm Overview.md",
+    "Advanced rubric obeservations/Basic Visualisation Observations.md",
+    "Advanced rubric obeservations/Cross modal similarity.md",
+    "Advanced rubric obeservations/UMAP observations.md",
+    "Advanced rubric obeservations"
+  ]
+}
